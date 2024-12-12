@@ -1,7 +1,7 @@
 
-from collision import isCollisionRect, isCorrectRect, intersectionAreaRect, intersectionAreaMultiRect
-isCollisionRect.isCorrectRect()
-isCorrectRect.isCollisionRect() 
-intersectionAreaRect.intersectionAreaRect()
+from collision import second, third, fourth, fifth
+second.isCorrectRect()
+third.isCollisionRect() 
+fourth.intersectionAreaRect()
 rectangles = []
-intersectionAreaMultiRect.intersectionAreaMultiRect(rectangles)
+fifth.intersectionAreaMultiRect(rectangles)
